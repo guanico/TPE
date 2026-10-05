@@ -1,3 +1,4 @@
 reparto 
 registro
 ventas
+recorridos
