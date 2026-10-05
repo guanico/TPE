@@ -1,3 +1,2 @@
-Factura producto alimento premium
+ 
 "Precio $5000" 
-"Cantidad: 1"
