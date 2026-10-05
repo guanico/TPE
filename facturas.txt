@@ -1,0 +1,4 @@
+"Facturas de ventas" 
+"Venta alimento super premium" 
+"Precio $5000" 
+"Cantidad: 1" 
