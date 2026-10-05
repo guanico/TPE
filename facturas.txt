@@ -3,3 +3,4 @@
 "Precio $5000" 
 "Cantidad: 1" 
 REVISADO
+esta todo caro loco
